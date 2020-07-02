@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.88edfeda.chunk.css",
+    "main.js": "/game/static/js/main.ea109fde.chunk.js",
+    "main.js.map": "/game/static/js/main.ea109fde.chunk.js.map",
+    "runtime-main.js": "/game/static/js/runtime-main.eb6a8fc6.js",
+    "runtime-main.js.map": "/game/static/js/runtime-main.eb6a8fc6.js.map",
+    "static/js/2.a460f652.chunk.js": "/game/static/js/2.a460f652.chunk.js",
+    "static/js/2.a460f652.chunk.js.map": "/game/static/js/2.a460f652.chunk.js.map",
+    "index.html": "/game/index.html",
+    "precache-manifest.e4af5e6928e3abef83d1504765272871.js": "/game/precache-manifest.e4af5e6928e3abef83d1504765272871.js",
+    "service-worker.js": "/game/service-worker.js",
+    "static/css/main.88edfeda.chunk.css.map": "/game/static/css/main.88edfeda.chunk.css.map",
+    "static/js/2.a460f652.chunk.js.LICENSE.txt": "/game/static/js/2.a460f652.chunk.js.LICENSE.txt",
+    "static/media/derevo_planeta_zvezdy_galaktika_art_117068_1280x1024.jpg": "/game/static/media/derevo_planeta_zvezdy_galaktika_art_117068_1280x1024.fca6f398.jpg",
+    "static/media/gory_derevya_dal_sneg_oblaka_115484_1920x1080.jpg": "/game/static/media/gory_derevya_dal_sneg_oblaka_115484_1920x1080.b3bef548.jpg",
+    "static/media/gory_sneg_vershina_84607_1920x1080.jpg": "/game/static/media/gory_sneg_vershina_84607_1920x1080.0b51f8bd.jpg",
+    "static/media/image.jpg": "/game/static/media/image.ca1da7ca.jpg",
+    "static/media/mountain_range_himalayas_mountains_sky_fog_103464_1920x1080.jpg": "/game/static/media/mountain_range_himalayas_mountains_sky_fog_103464_1920x1080.3240acb2.jpg",
+    "static/media/pejzazh_gory_ozero_160353_1280x1024.jpg": "/game/static/media/pejzazh_gory_ozero_160353_1280x1024.5f3f085f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6a8fc6.js",
+    "static/js/2.a460f652.chunk.js",
+    "static/css/main.88edfeda.chunk.css",
+    "static/js/main.ea109fde.chunk.js"
+  ]
+}
